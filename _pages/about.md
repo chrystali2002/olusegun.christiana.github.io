@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Dr. Christiana OLUSEGUN
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Associate, Michigan State University, Department of Earth and Environmental Sciences.
 
 profile:
   align: right
