@@ -1,5 +1,4 @@
 ---
----
 layout: about
 title: Dr. Christiana OLUSEGUN
 permalink: /
