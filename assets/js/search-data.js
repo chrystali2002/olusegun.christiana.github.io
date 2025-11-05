@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-dr-christiana-olusegun",
+    title: "Dr. Christiana OLUSEGUN",
     section: "Navigation",
     handler: () => {
       window.location.href = "/olusegun.christiana.github.io/";
