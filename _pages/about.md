@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Dr. Christiana OLUSEGUN
+title: Olusegun Christiana, PhD
 permalink: /
 subtitle: Research Associate, Michigan State University, Department of Earth and Environmental Sciences.
 
