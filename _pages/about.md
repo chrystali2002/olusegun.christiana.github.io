@@ -46,7 +46,7 @@ My primary research focuses on understanding and predicting climate variability 
 | Degree | Field | Institution | Year |
 | :--- | :--- | :--- | :--- |
 | **Ph.D.** | Meteorology and Climate Science | The Federal University of Technology, Akure, Nigeria | 2016 |
-| **M.Sc.** | Physics (Space Physics Option) | The Federal University of Technology, Akure, Nigeria | 2012 |
+| **M.Tech.** | Physics (Space Physics Option) | The Federal University of Technology, Akure, Nigeria | 2012 |
 | **B.Tech.** | Meteorology | The Federal University of Technology, Akure, Nigeria | 2006 |
 
 ---
