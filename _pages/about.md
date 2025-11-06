@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dept. of Earth and Environmental Sciences</p>
+    <p>MSU Directory Profile: <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/104427">104427</a></p>
     <p>Michigan State University</p>
     <p>East Lansing, MI 48824</p>
     <p>Email: olusegu3@msu.edu</p>
