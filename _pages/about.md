@@ -34,12 +34,16 @@ Atmospheric and climate scientist with expertise in **regional climate modeling,
 
 ## 🔭 Research Interests
 
-My primary research focuses on understanding and predicting climate variability and change, particularly concerning **precipitation extremes** and **climate dynamics**. I translate complex climate simulations and numerical modeling into actionable environmental insights for resilience.
+A simple question drives me: How does our changing climate, especially its extremes, affect the way we live and work? To answer this, I use a combination of climate models, remote sensing, field observation, statistics, and machine learning. My goal is to cut through the complexity and provide clear, actionable insights that build resilience—from the food we grow and the air we breathe to the energy we use
 
-**Key areas of expertise:**
-* **Climate Modeling:** Regional models (CMIP6, REGCM4, WRF, CORDEX-CORE), climate simulations, and geospatial diagnostics.
-* **Data Science:** Proficient in Python, R, MATLAB, ArcPy, and GIS for atmospheric and climate data analysis.
-* **Applications:** Land–atmosphere interactions, climate–agriculture impacts, and data-driven approaches for environmental resilience.
+**Key Areas of Expertise:**
+
+**Climate Modeling & Analysis:** Developing and analyzing simulations using regional models (WRF, REGCM4) and large ensembles (CMIP6, CORDEX-CORE) for robust geospatial diagnostics.
+
+**Climate Data Science:** Leveraging Python, R, and MATLAB, alongside geospatial tools (ArcGIS, ArcPy), for processing and analyzing large-scale atmospheric datasets.
+
+**Applied Climate Impacts:** Researching land-atmosphere interactions, climate-agriculture relationships, and building data-driven frameworks for environmental resilience.
+
 
 ## 🎓 Education Highlights
 
