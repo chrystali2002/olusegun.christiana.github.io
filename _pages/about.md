@@ -54,4 +54,4 @@ A simple question drives me: How does our changing climate, especially its extre
 | **B.Tech.** | Meteorology | The Federal University of Technology, Akure, Nigeria | 2006 |
 
 ---
-**View my complete professional history, funded projects, and full publication list on my [Curriculum Vitae (PDF)]() and [Publications page](/publications/).**
+**View my complete professional history, funded projects, and full publication list on my [Curriculum Vitae (PDF)](/assets/pdf/christiana_cv.pdf) and [Publications page](/publications/).**
