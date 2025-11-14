@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-potential-impact-of-1-5-c-and-2-c-global-warming-on-consecutive-dry-and-wet-days-over-west-africa",
+          title: 'Potential impact of 1.5 °C and 2 °C global warming on consecutive dry...',
+          description: "Analysis of how 1.5°C and 2°C warming levels affect dry and wet spell extremes (CDD and CWD) over West Africa using CORDEX RCMs, with significant implications for regional agriculture.",
           section: "Projects",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/projects/1_project/";
             },},{id: "projects-project-2",
