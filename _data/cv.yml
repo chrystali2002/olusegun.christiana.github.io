@@ -2,96 +2,199 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      [cite_start]value: Christiana Funmilola Olusegun [cite: 126]
+    - name: Email
+      [cite_start]value: olusegu3@msu.edu [cite: 126]
+    - name: Research Interests
+      [cite_start]value: Climate dynamics, precipitation extremes, regional modeling (CMIP6, REGCM4, WRF, CORDEX-CORE), land–atmosphere interactions, and data-driven approaches for environmental resilience. [cite: 127]
+    - name: Summary
+      value: Atmospheric and climate scientist with expertise in regional climate modeling, geospatial data analysis, and climate–agriculture interactions. [cite_start]Demonstrated record of interdisciplinary research, collaboration, and mentoring across Africa, Europe, and North America. [cite: 127, 128]
     - name: Languages
-      value: English, German
+      value: English (fluent), Yoruba (native)
 
-- title: Education
+- [cite_start]title: Education [cite: 129]
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D., Meteorology and Climate Science
+      institution: The Federal University of Technology, Akure, Nigeria
+      year: June 2016
+    - title: M.Sc., Physics (Space Physics Option)
+      institution: The Federal University of Technology, Akure, Nigeria
+      year: March 2012
+    - title: B.Tech., Meteorology
+      institution: The Federal University of Technology, Akure, Nigeria
+      year: November 2006
 
-- title: Experience
+- title: Skills and Competencies
+  type: list
+  contents:
+    - [cite_start]Proficient in Python, R, MATLAB, ArcPy, and GIS for atmospheric and climate data analysis [cite: 130]
+    - [cite_start]Expertise in climate modeling, geospatial diagnostics, and data-driven decision tools [cite: 130]
+    - [cite_start]Experience with HPC and cloud computing environments [cite: 130]
+    - [cite_start]Skilled in interdisciplinary collaboration, project management, and science communication [cite: 130]
+
+- title: Academic Appointments
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate
+      institution: Michigan State University, Department of Earth and Environmental Sciences, East Lansing, MI
+      [cite_start]year: January 2024–Present [cite: 130]
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - [cite_start]Conducting research on the impacts of climate variability and change on agricultural production systems and resilience using numerical and process-based modeling, climate simulations (CMIP6 and CORDEX), and open-source computational tools to translate complex data into actionable environmental insights. [cite: 130, 131]
+    - title: Research Fellow and Co-PI (50% Contract Position)
+      institution: The Federal University of Technology, Department of West African Climate System, Akure, Nigeria
+      [cite_start]year: Jan 2021–Dec 2023 [cite: 131]
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - [cite_start]Engaged in numerical climate modeling, programming, and geospatial data analysis for regional climate applications. [cite: 132]
+    - title: Scientist/Technical Specialist (50% Contract Position)
+      institution: University of Warsaw, Institute of Geophysics, Atmospheric Physics Department, Warsaw, Poland
+      [cite_start]year: Aug 2021–Mar 2022 [cite: 132]
       description:
+        - [cite_start]Focused on air pollution assessment using field-based measurements, remote sensing observations, and data-driven analytical approaches. [cite: 133]
+    - title: Postdoctoral Scientist
+      institution: Karlsruhe Institute of Technology, Regional Climate Systems Division, Garmisch-Partenkirchen, Germany
+      [cite_start]year: Sept 2016–Sept 2017 [cite: 133]
+      description:
+        - [cite_start]Worked on numerical climate modeling and geospatial data analysis. [cite: 134]
+    - title: Visiting Scientist
+      institution: University of Cape Town, Environmental and Geographical Sciences Department, Cape Town, South Africa
+      [cite_start]year: Feb 2014–Oct 2014 [cite: 134]
+      description:
+        - [cite_start]Applied numerical climate modeling and geospatial data analysis to study regional climate dynamics and environmental change. [cite: 135]
+    - title: Assistant Lecturer
+      institution: Elizade University, Department of Physics, Ilara Mokin, Nigeria
+      [cite_start]year: July 2012–Jan 2013 [cite: 135]
+      description:
+        - [cite_start]Taught undergraduate courses in general physics and supervised laboratory and field activities. [cite: 136]
+    - title: Teaching Assistant
+      institution: The Federal University of Technology, Department of Meteorology, Akure, Nigeria
+      [cite_start]year: Apr 2008–Jun 2012 [cite: 136]
+      description:
+        - [cite_start]Assisted in teaching and mentoring undergraduate students in meteorological theory, data analysis, and laboratory exercises. [cite: 137]
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Editorial and Professional Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Associate Editor
+      institution: Air Quality, Atmosphere and Health (Springer)
+      [cite_start]year: 2025–Present [cite: 138]
+      description:
+        - [cite_start]Managing peer review processes, assessing manuscripts, and promoting diversity and scientific quality in submissions on atmospheric modeling and air quality. [cite: 138]
+    - title: Peer Reviewer for Academic Journals
+      description:
+        - [cite_start]International Journal of Climatology [cite: 138]
+        - [cite_start]Modeling Earth Systems and Environment [cite: 138]
+        - [cite_start]GeoHealth [cite: 138]
+        - [cite_start]PLOS ONE [cite: 138]
+        - [cite_start]Meteorology and Atmospheric Physics [cite: 138]
+        - [cite_start]Meteorological Applications [cite: 138]
+        - [cite_start]Hydrological Sciences Journal [cite: 138]
+        - [cite_start]Environmental Research Letters [cite: 138]
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: Jan 2013
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - German Federal Ministry of Education and Research Ph.D. [cite_start]Scholarship [cite: 179]
+    - year: Jan 2009
       items:
-        - Max Planck Medal
+        - [cite_start]Nigeria/Sao-Tome Postgraduate Scholarship Award [cite: 179]
 
-- title: Academic Interests
+- title: Funded Projects
+  type: time_table
+  contents:
+    - title: Greenhouse Gas Emissions and Mitigation in West Africa
+      institution: German Federal Ministry of Education and Research (BMBF)
+      year: Jan 2021 – Dec 2024
+      description:
+        - Role: Co-Principal Investigator (Co-PI). [cite_start]Award: $90,000 [cite: 177]
+    - title: National Evaluation of the Infrastructure and Climate Resilience Fund (ICRF)
+      institution: Federal Infrastructure and Climate Resilience Initiative
+      year: Sep 2022 – Dec 2022
+      description:
+        - Role: Co-Principal Investigator (Co-PI). [cite_start]Award: $10,000 [cite: 177]
+    - title: Agri-Silviculture Impacts on Future Climate in West Africa
+      institution: German Federal Ministry of Education and Research (BMBF)
+      [cite_start]year: Jan 2013 – Dec 2016 [cite: 178]
+      description:
+        - Role: Principal Investigator (PI). [cite_start]Award: $31,000 [cite: 178]
+    - title: Impact of Climate Change on Tropospheric Microwave Communication in West Africa
+      institution: National Space Research and Development Agency (NASRDA)
+      year: Jan 2017 – Dec 2018
+      description:
+        - Role: Principal Investigator (PI). [cite_start]Award: $1,000 [cite: 178]
+
+- title: Publications
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Journal Articles
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Olusegun, C. F., Adeyewa, Z. D. (2013). Spatial and temporal variation of normalized difference vegetation index (NDVI) and rainfall in the north east arid zone of Nigeria. [cite_start]Atmospheric and Climate Sciences, 3(4), 421–426. [cite: 139, 140]
+        - Olusegun, C. F., Rabiu, A. B., Ndeda, J. O. H., Okogbue, E. C., et al. (2014). Trends of temperature and signature of solar activity in selected stations in Nigeria. [cite_start]Atmospheric and Climate Sciences, 4(2), 171. [cite: 141, 142]
+        - Klutse, N. A. B., Ajayi, V. O., Gbobaniyi, E. O., Egbebiyi, T. S., Kouadio, K., Nkrumah, F., Quagraine, K. A., Olusegun, C. F., Diasso, U., Abiodun, B. J., et al. (2018). Potential impact of 1.5°C and 2°C global warming on consecutive dry and wet days over West Africa. [cite_start]Environmental Research Letters, 13(5), 055013. [cite: 143, 144]
+        - Heinzeller, D., Dieng, D., Smiatek, G., Olusegun, C. F., Klein, C., Hamann, I., Salack, S., Bliefernicht, J., Kunstmann, H. (2018). The WASCAL high-resolution regional climate simulation ensemble for West Africa: Concept, dissemination, and assessment. [cite_start]Earth System Science Data, 10(2), 815–835. [cite: 145, 146]
+        - Ashfaq, M., Cavazos, T., Reboita, M. S., Torres-Alavez, J. A., Im, E. S., Olusegun, C. F., et al. (2021). Robust late twenty-first century shift in the regional monsoons in RegCM-CORDEX simulations. [cite_start]Climate Dynamics, 57(5), 1463–1488. [cite: 147, 148]
+        - Ogunjo, S., Olaniyan, O., Olusegun, C. F., Kayode, F., Okoh, D., Jenkins, G. (2022). The role of meteorological variables and aerosols in the transmission of COVID-19 during harmattan season. [cite_start]GeoHealth, 6(e2021GH000521). [cite: 149, 150]
+        - Olusegun, C. F., Awe, O., Ijila, I., Ajanaku, O., Ogunjo, S. (2022). Evaluation of dry and wet spell events over West Africa using CORDEX-CORE regional climate models. [cite_start]Modeling Earth Systems and Environment, 8(4), 4923–4937. [cite: 151, 152]
+        - Olusegun, C. F., Ogunjo, S., Olusola, A. (2023). Evolution and copula modelling of drought duration and severity over Africa using CORDEX-CORE regional climate models. [cite_start]International Journal of Climatology, 43(8), 3629–3646. [cite: 153, 154]
+        - Olusegun, C. F., Ojo, O., Olusola, A., Ogunjo, S. (2024). Solar radiation variability across Nigeria’s climatic zones: a validation and projection study with CORDEX, CMIP5, and CMIP6 models. [cite_start]Modeling Earth Systems and Environment, 10(1), 1423–1440. [cite: 155, 156]
+    - title: Book Chapters
       items:
-        - Description 1.
-        - Description 2.
+        - Olusola, A. O., Adedeji, O., Akpoterai, L., Ogunjo, S. T., Olusegun, C. F., Adelabu, S. (2022). Flood assessment along Lower Niger River using Google Earth Engine. In: Dubey, S. K., Jha, P. K., Gupta, P. K., Nanda, A., Gupta, V. (Eds.), Soil-Water, Agriculture, and Climate Change. Water Science and Technology Library, Vol. 113. [cite_start]Springer, Cham. [cite: 157, 158, 159]
+        - Ogunjo, S. T., Olusola, A. O., Olusegun, C. F. (2022). Bivariate copula modelling of precipitation and river discharge within the Niger Basin. In: Soil-Water, Agriculture, and Climate Change: Exploring Linkages. [cite_start]Springer, Cham. [cite: 160, 161]
+    - title: Conference Papers
+      items:
+        - Szczepanik, D. M., Kumala, W., Olusegun, C. F., Tetoni, E., Amiridis, V., Nicolae, D., Althausen, D., Stachlewska, I. (2022). Long-term changes of optical properties of mineral dust and its mixtures derived from Raman polarization water vapor lidar in Central Europe. [cite_start]International Laser Radar Conference, 347–353. [cite: 162, 163]
+        - Olusola, A., Ogunjo, S., Olusegun, C. F. (2022). Predicting rainfall onset and cessation within the West African Sahel region using Echo State Network. [cite_start]International Conference on Mediterranean Geosciences Union, 263–265. [cite: 164, 165]
+        - Olusegun, C. F., Ogunjo, S., Olusola, A. (2022). Detecting decadal temporal shifts in rainfall across the West African Sahel during the twentieth century. [cite_start]Euro-Mediterranean Conference for Environmental Integration, 395–398. [cite: 166, 167]
+        - Ogunjo, S., Olusola, A., Olusegun, C. F. (2022). Trends in the spatial extent of precipitation over West Africa in the twentieth century. [cite_start]Euro-Mediterranean Conference for Environmental Integration, 391–393. [cite: 168, 169]
+        - Olusola, A., Ogunjo, S., Olusegun, C. F. (2023). Imprints of large-scale oscillations on river flow in selected Canadian river catchments. [cite_start]EGU General Assembly Conference Abstracts, EGU–1104. [cite: 170, 171]
+        - Olusegun, C. F., Ogunjo, S. T., Olusola, A. (2024). West African monsoon precipitation extremes: A comparative analysis of HighResMIP CMIP6 atmosphere-only and coupled models. [cite_start]AGU Fall Meeting Abstracts, H11O–0889. [cite: 172, 173]
+        - Olusola, A., Dembele, M., Olusegun, C. F., Taye, M. T. (2024). African hydrology: Exploring trends and innovations from data to models II oral. [cite_start]AGU24. [cite: 174, 175]
+        - Olusola, A., Dembele, M., Olusegun, C. F., Taye, M. T. (2025). African hydrology: Bridging data, models, and innovation for sustainable solutions. [cite_start]AGU25. [cite: 176, 177]
 
-- title: Other Interests
+- title: Consultancy Engagements
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - National Consultant, Nigeria National Adaptation Plan (NAP). Organization: Sustainable Solutions for Africa (SSA). [cite_start]Scope: Evaluation of Infrastructure and Climate Resilience Fund (ICRF). [cite: 179]
+
+- title: Professional Associations
+  type: list
+  contents:
+    - [cite_start]Member, Organization for Women in Science for the Developing World (OWSD) [cite: 179]
+    - [cite_start]Member, American Geophysical Union (AGU) [cite: 179]
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Statistical Methods in Meteorology and Climatology
+      institution: Federal University of Technology Akure (FUTA)
+      year: Spring 2022
+      description:
+        - [cite_start]Course Code: WSC 907. Credit Load: 3. [cite: 180]
+    - title: Climate Change and Variability
+      institution: Federal University of Technology Akure (FUTA)
+      year: Spring 2008
+      description:
+        - [cite_start]Course Code: MCS 402. Credit Load: 3. [cite: 180]
+    - title: Remote Sensing and GIS Applications
+      institution: Federal University of Technology Akure (FUTA)
+      year: Spring 2008
+      description:
+        - [cite_start]Course Code: MCS 405. Credit Load: 3. [cite: 180]
+    - title: Numerical Weather Prediction
+      institution: Federal University of Technology Akure (FUTA)
+      year: Fall 2008
+      description:
+        - [cite_start]Course Code: MCS 403. Credit Load: 3. [cite: 180]
+    - title: General Physics I
+      institution: Elizade University
+      year: Fall 2012
+      description:
+        - [cite_start]Course Code: PHY 101. Credit Load: 3. [cite: 180]
+    - title: General Physics II
+      institution: Elizade University
+      year: Fall 2012
+      description:
+        - [cite_start]Course Code: PHY 102. Credit Load: 3. [cite: 180]
