@@ -23,9 +23,6 @@ The results show a noticeable, robust response to enhanced warming, with an over
 
 More than 80% of the ensemble members agree on the sign of these changes. These projected shifts are critical, as they directly influence the already fragile ecosystems and rain-fed **agriculture** in West Africa, necessitating urgent adaptation and mitigation strategies.
 
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the [Bootstrap Grid](https://getbootstrap.com/docs/4.4/layout/grid/) system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the structure for displaying results plots:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -33,12 +30,9 @@ Here's the structure for displaying results plots:
     </div>  
 </div>
 <div class="caption">
-    Artistically styled 2/3 + 1/3 images showing the model consensus on CDD increase and CWD decrease over West Africa.
+    Figure showing the model consensus on CDD increase and CWD decrease over West Africa. Areas where at least 80% of the simulations (20 of 25) agree on the sign of the change are marked by positively sloped hatching. Areas where the signal to noise ratio is equal or more than 1 are marked by negatively sloped hatching.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite klutse2018potential %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 **Full Citation:**
 Klutse, N. A. B., Ajayi, V. O., Gbobaniyi, E. O., Egbebiyi, T. S., Kouadio, K., Nkrumah, F., Quagraine, K. A., **Olusegun, C. F.**, Diasso, U., Abiodun, B. J., et al. (2018). Potential impact of 1.5°C and 2°C global warming on consecutive dry and wet days over West Africa. *Environmental Research Letters*, 13(5), 055013. [DOI: 10.1088/1748-9326/aab37b](https://iopscience.iop.org/article/10.1088/1748-9326/aab37b)
