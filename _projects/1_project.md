@@ -29,7 +29,7 @@ Here's the structure for displaying results plots:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/west_africa_cwd_cdd_map.jpg" title="Projected Change in Consecutive Dry Days (CDD, upper panel), and consecutive wet days (CWD, lower panel) at 2°C GWL" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/west_africa_cdd_cwd_map.jpg" title="Projected Change in Consecutive Dry Days (CDD, upper panel), and consecutive wet days (CWD, lower panel) at 2°C GWL" class="img-fluid rounded z-depth-1" %}
     </div>  
 </div>
 <div class="caption">
