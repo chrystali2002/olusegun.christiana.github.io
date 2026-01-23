@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-co-convener-at-agu25-conference-african-hydrology-bridging-data-models-and-innovation-for-sustainable-solutions-i-oral-authors-adeyemi-olusola-moctar-dembele-christiana-funmilola-olusegun-meron-teferi-taye",
+          title: 'Co-convener at AGU25 Conference African Hydrology: Bridging Data, Models, and Innovation for Sustainable...',
           description: "",
           section: "News",},{id: "projects-potential-impact-of-1-5-c-and-2-c-global-warming-on-consecutive-dry-and-wet-days-over-west-africa",
           title: 'Potential impact of 1.5 °C and 2 °C global warming on consecutive dry...',
