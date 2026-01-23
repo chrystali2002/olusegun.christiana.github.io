@@ -1,33 +1,76 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: "Co-convener of a Session at the American Geophysical Union 2024 (AGU24): African Hydrology—Exploring Trends and Innovations from Data to Models II (Oral)"
+authors:
+  - Adeyemi Olusola
+  - Moctar Dembele
+  - **Christiana Funmilola Olusegun**
+  - Meron Teferi Taye
+date: 2024-12-09
 inline: false
 related_posts: false
----
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+## Advancing African Hydrology: Trends and Innovations from Data to Models
 
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+**2024 AGU Fall Meeting | Oral Session – December 9, 2024**
+**Authors:**  
+Adeyemi Olusola, Moctar Dembele, **Christiana Funmilola Olusegun**, Meron Teferi Taye
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+In an era of accelerating climate change and rapid socio-economic transformation, understanding Africa’s water systems has never been more critical. The AGU Fall Meeting 2024 provided a timely platform to spotlight cutting-edge research addressing the continent’s unique hydrological challenges.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+The oral session *“African Hydrology: Exploring Trends and Innovations from Data to Models”* brought together leading scientists working at the intersection of observations, modeling, and decision-support. The presentations showcased how innovations—from dense sensor networks to machine learning and digital twins—are reshaping the future of water security in Africa.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+---
+
+## Session Highlights
+
+### Bridging the Data Gap
+**Nick van de Giesen (Invited)** introduced the **TEMBO Africa** initiative, an ambitious evolution of the TAHMO network. TEMBO Africa focuses on transforming “good ideas” into operational environmental monitoring services, empowering local farmers, water managers, and policymakers with actionable data.
+
+### Understanding Climate Extremes
+**Amobichukwu Amanambu (Invited)** delivered a compelling analysis of compound extreme events, illustrating how the co-occurrence of droughts and heatwaves is redefining hydrological risks across Africa.
+
+### Innovations in Artificial Intelligence
+**Roland Yonaba** demonstrated how machine learning can significantly improve daily evapotranspiration (ETo) estimates in Burkina Faso. His work highlights the potential of AI to deliver robust hydrological insights even in data-scarce regions.
+
+---
+
+## Regional Case Studies
+
+### The Great Green Wall
+**Rachel Ku** explored vegetation and hydrological changes using NASA’s FLDAS products, offering new perspectives on land–water interactions across the Sahel.
+
+### Wetland Dynamics
+**Cynthia Gerlein-Safdi** presented an integrative framework for capturing the complex flooding dynamics of the **Sudd Wetland**, one of the world’s largest and most ecologically important wetlands.
+
+### Energy and Water Security
+**Emmanuel Aremu** discussed future water balance projections for the **Niger River Basin**, emphasizing the implications for hydropower generation at the Kainji and Jebba dams.
+
+---
+
+## Scaling Hydrological Insights Across Africa
+
+**Komlavi Akpoti** examined seasonal variability in river flows across the continent, while additional contributions focused on high-resolution water accounting in Kenya, demonstrating how local studies can inform continental-scale understanding.
+
+---
+
+## Key Takeaway
+
+Across all presentations, a clear theme emerged:
+
+> **The future of African hydrology lies in the integration of digital twins, machine learning, and traditional hydrological knowledge.**
+
+While Africa’s water challenges are complex and multifaceted, the session highlighted a growing momentum toward innovative, data-driven solutions that can support climate resilience and sustainable water management.
+
+---
+
+## Featured Project: TEMBO Africa
+
+The **TEMBO Africa Project** aims to close Africa’s environmental data gap through next-generation sensor networks and operational monitoring services.
+
+📺 **Project video:**  
+[https://youtu.be/qh2ECbhFIdU](https://youtu.be/qh2ECbhFIdU)
