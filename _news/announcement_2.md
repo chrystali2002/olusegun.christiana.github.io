@@ -1,11 +1,6 @@
 ---
 layout: post
 title: "Co-convener of a Session at the American Geophysical Union 2024 (AGU24): African Hydrology—Exploring Trends and Innovations from Data to Models II (Oral)"
-authors:
-  - Adeyemi Olusola
-  - Moctar Dembele
-  - **Christiana Funmilola Olusegun**
-  - Meron Teferi Taye
 date: 2024-12-09
 inline: false
 related_posts: false
