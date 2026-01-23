@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/books/the_godfather/";
-            },},{id: "news-co-convener-at-agu25-conference-african-hydrology-bridging-data-models-and-innovation-for-sustainable-solutions-i-oral-authors-adeyemi-olusola-moctar-dembele-christiana-funmilola-olusegun-meron-teferi-taye",
-          title: 'Co-convener at AGU25 Conference ✨ 😄 African Hydrology: Bridging Data, Models, and Innovation...',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-co-convener-of-a-session-at-the-american-geophysical-union-2024-agu24-african-hydrology-exploring-trends-and-innovations-from-data-to-models-ii-oral",
+          title: 'Co-convener of a Session at the American Geophysical Union 2024 (AGU24): African Hydrology—Exploring...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-co-convener-at-agu25-conference-african-hydrology-bridging-data-models-and-innovation-for-sustainable-solutions-i-oral-authors-adeyemi-olusola-moctar-dembele-christiana-funmilola-olusegun-meron-teferi-taye",
+          title: 'Co-convener at AGU25 Conference ✨ 😄 African Hydrology: Bridging Data, Models, and Innovation...',
           description: "",
           section: "News",},{id: "projects-potential-impact-of-1-5-c-and-2-c-global-warming-on-consecutive-dry-and-wet-days-over-west-africa",
           title: 'Potential impact of 1.5 °C and 2 °C global warming on consecutive dry...',
