@@ -481,9 +481,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-multi-tier-qa-qc-analysis-of-new-mexico-weather-stations",
+          title: 'Multi-Tier QA/QC Analysis of New Mexico Weather Stations',
+          description: "An example of multi-tier quality assurance and quality control (QA/QC) of surface observation hourly temperature data for New Mexico weather stations",
           section: "Projects",handler: () => {
               window.location.href = "/olusegun.christiana.github.io/projects/7_project/";
             },},{id: "projects-project-8",
