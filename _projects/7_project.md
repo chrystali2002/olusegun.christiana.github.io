@@ -276,12 +276,7 @@ For each station, the analysis calculates:
 - **File I/O**: CSV, PNG, PDF formats
 
 ### Code Repository
-The complete analysis code is available as modular Python scripts:
-- `download_noaa_data.py` - Data acquisition
-- `station_network_analysis.py` - Network and neighbor analysis
-- `qaqc_pipeline.py` - 4-tier QA/QC processing
-- `visualization.py` - Plot generation
-- `report_generation.py` - Summary statistics and reports
+The complete analysis code in Python is available on request  https://github.com/chrystali2002/multi-tier_QA_QC
 
 ### Reproducibility
 All analyses are fully reproducible with:
