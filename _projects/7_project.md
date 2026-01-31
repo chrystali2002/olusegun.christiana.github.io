@@ -17,13 +17,13 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: An example of multi-tier quality assurance and quality control (QA/QC) of surface observation hourly temperature data
     img: /assets/img/LAS_CRUCES_20_N_Enhanced_QAQC.png
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/LAS_CRUCES_20_N_Enhanced_QAQC.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/LAS_CRUCES_20_N_Enhanced_QAQC.png" title="multi-tier QA/QC hor hourly data" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
