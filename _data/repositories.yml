@@ -4,5 +4,6 @@ github_users:
 github_repos:
   - chrystali2002/olusegun.christiana.github.io  #(deployed at https://chrystali2002.github.io/olusegun.christiana.github.io)
   - https://github.com/chrystali2002/Olusegun-Python-Toolkit
+  - https://github.com/chrystali2002/wascal_concert_wp3
   - https://github.com/chrystali2002/nm-app # (used to deploy the app https://asosqualityassurance.streamlit.app/)  # add your drought pipeline repo here when it's public
 
